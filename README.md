@@ -96,66 +96,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Local AI Productivity Assistant
-Privacy-first hybrid AI agent built with **LangGraph**, routing sensitive tasks to a local **Ollama** model and general queries to cloud LLMs. Integrates Gmail, Calendar, Tasks, Sheets, Playwright automation, and Telegram delivery with a cloud circuit breaker.
-
-`LangGraph` `LangChain` `Ollama` `FastAPI` `Playwright`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/almohsinkhan/local-ai-agent)
-
-</td>
-<td width="50%">
-
-### 🖼️ Document Denoising — Attention U-Net
-End-to-end deep learning pipeline restoring noisy document scans using an **Attention U-Net** (MSE + L1 loss), outperforming the baseline U-Net. Deployed as a real-time FastAPI inference service, containerized with Docker, live on Hugging Face Spaces.
-
-`PyTorch` `FastAPI` `Docker` `HF Spaces`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/almohsinkhan)
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-### 🧩 DocuTrust — Corrective RAG (CRAG) Platform
-*Built during AI-Python Internship @ Venura Tech.* Production-grade self-correcting RAG platform with a 5-node agentic pipeline — **Retriever → Grader → Rewriter → Web Fallback → Generator** — powered by Groq LLaMA 3, using LangGraph, FastAPI, React, FAISS, MongoDB, and Docker Compose.
-
-`LangGraph` `FastAPI` `React` `FAISS` `MongoDB` `Docker Compose` `Groq LLaMA 3`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=almohsinkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=almohsinkhan&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almohsinkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almohsinkhan&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 🏆 Certifications
 
 <div align="center">
@@ -170,14 +110,6 @@ End-to-end deep learning pipeline restoring noisy document scans using an **Atte
 | AI/ML for Geodata Analysis | ISRO/IIRS | Sep 2024 |
 | Data Analysis with Python & Responsive Web Design | freeCodeCamp | 2025 |
 
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
