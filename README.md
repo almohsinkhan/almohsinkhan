@@ -47,13 +47,6 @@ me = MohsinKhan()
 me.say_hi()
 ```
 
-- 🎓 Final-year **B.Tech in AI & Data Science** student at MITS Gwalior
-- 🔬 Deep interest in **NLP, foundation models, and applied AI engineering**
-- 🛠️ Experience shipping **GenAI/RAG pipelines** end-to-end — architecture, API design, and containerized deployment
-- 💼 AI-Python Intern @ **Venura Tech**, built a production-grade **Corrective RAG (CRAG)** platform
-- 📫 Reach me at **almohsinkhan2004@gmail.com**
-- 🌱 Open to **AI Engineering & Software Engineering** internship / full-time roles
-
 ---
 
 ## 🛠️ Tech Stack
@@ -91,24 +84,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Agentic AI Certified Foundations Associate | Oracle | Aug 2026 |
-| Introduction to LangChain (Python) | LangChain | Aug 2026 |
-| LangGraph Essentials (Python) | LangChain Academy | Jun 2026 |
-| Business Intelligence & Analytics (IIT Madras) | NPTEL Elite | Jan–Apr 2026 |
-| SQL, Python & C++ 5-Star Badges | HackerRank | 2024–2026 |
-| AI/ML for Geodata Analysis | ISRO/IIRS | Sep 2024 |
-| Data Analysis with Python & Responsive Web Design | freeCodeCamp | 2025 |
 
 </div>
 
