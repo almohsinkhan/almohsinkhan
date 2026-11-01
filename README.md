@@ -16,4 +16,4 @@ I enjoy exploring technology, reading about new ideas, and building things to un
 
 ---
 
-*Always curious about how things work.*
+*Learning how things work, building what I learn, and staying curious about what comes next.*
